@@ -11,7 +11,7 @@ Interface de login estilizada em modo escuro com PyQt6.
 - Validação de login com alertas interativos
 - Projeto ideal para portfólios com PyQt6
 
-## ▶Como executar
+## Como executar
 
 1. Instale as dependências:
 ```bash
